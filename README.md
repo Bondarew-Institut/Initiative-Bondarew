@@ -83,7 +83,11 @@ Bei Online-Ausgaben zusätzlich URL und Zugriffsdatum.
 Eigene Analysen und Kommentare: CC BY 4.0.
 Originaltexte Bondarews unterliegen dem Urheberrecht des Nachlasses.
 Siehe `12_meta/rechte.md`.
+---
 
+## Impressum
+
+Siehe [IMPRESSUM.md](IMPRESSUM.md).
 ---
 
 ## Status
