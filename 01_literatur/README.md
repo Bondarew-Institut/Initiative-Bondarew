@@ -6,7 +6,7 @@ Gennadi Bondarew.
 
 ## Dateien
 
-- [literatur.bib](literatur.bib) – deutsche Ausgaben
+- [bondarew_deutsch.bib](bondarew_deutsch.bib) – deutsche Ausgaben
 
 ## Zitierweise
 
